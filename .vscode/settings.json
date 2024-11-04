@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "xlocmes": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "stdexcept": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
